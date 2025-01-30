@@ -25,27 +25,29 @@ You need to install the `scapy` library to run the script. Use the following com
 
 ```bash
 pip install scapy
+```
 
 
 If you're using Linux (Ubuntu, for example), you may need to install additional dependencies for packet capture:
 
-sudo apt install libpcap-dev
+```sudo apt install libpcap-dev```
 
-Usage
-git clone https://github.com/your-username/draco-packet-sniffer.git
-cd draco-packet-sniffer
+Usage :
+
+```git clone https://github.com/your-username/draco-packet-sniffer.git```
+```cd draco-packet-sniffer```
 
 
 Make the Script Executable (Linux/macOS)
 If you're using Linux or macOS, make the script executable:
 
-chmod +x draco_sniffer.py
+```chmod +x draco_sniffer.py```
 
 
 3. Run the Script
 Once you have everything set up, you can run the packet sniffing tool with:
 
-python3 draco_sniffer.py
+```python3 draco_sniffer.py```
 
 License
 
