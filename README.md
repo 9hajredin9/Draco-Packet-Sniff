@@ -62,6 +62,7 @@ python3 draco_sniffer.py
 License
 
 This project is open-source and licensed under the MIT License. Feel free to contribute, make improvements, or suggest features!
+Only for educational purposes !
 
 Author
 Made by: Hajra
