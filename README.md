@@ -37,7 +37,7 @@ sudo apt install libpcap-dev
 Usage :
 
 ```bash
-git clone https://github.com/9hajredin9/draco-packet-sniffer.git
+git clone https://github.com/9hajredin9/Draco-packet-sniff.git
 ```
 ```
 cd draco-packet-sniffer
