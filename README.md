@@ -37,10 +37,10 @@ sudo apt install libpcap-dev
 Usage :
 
 ```bash
-git clone https://github.com/9hajredin9/Draco-packet-sniff.git
+git clone https://github.com/9hajredin9/Draco-Packet-Sniff.git
 ```
 ```
-cd draco-packet-sniffer
+cd Draco-Packet-Sniff
 ```
 
 
@@ -48,7 +48,7 @@ Make the Script Executable (Linux/macOS)
 If you're using Linux or macOS, make the script executable:
 
 ```bash 
-chmod +x draco_sniffer.py
+chmod +x draco.py
 ```
 
 
@@ -56,7 +56,7 @@ chmod +x draco_sniffer.py
 Once you have everything set up, you can run the packet sniffing tool with:
 
 ```bash 
-python3 draco_sniffer.py
+python3 draco.py
 ```
 
 License
